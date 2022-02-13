@@ -1,0 +1,6 @@
+vue create canvas
+npm i --save-dev vue-loader-v16
+npm i -S bootstrap bootstrap-vue-3
+npm install --save @popperjs/core
+npm install --save vue-router
+//npm install core-js@3.6.5
